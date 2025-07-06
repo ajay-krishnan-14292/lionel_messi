@@ -45,10 +45,10 @@ const Navbar = () => {
                 variant="ghost"
                 className="text-white hover:bg-white/10 transition-all duration-300 relative group"
               >
-                {item.name}
+                {/* {item.name}
                 {item.hasDropdown && (
                   <ChevronDown className="ml-1 h-4 w-4 group-hover:rotate-180 transition-transform duration-300" />
-                )}
+                )} */}
               </Button>
             </motion.div>
           ))}
