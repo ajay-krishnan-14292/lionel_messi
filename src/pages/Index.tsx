@@ -7,126 +7,184 @@ import VideoCard from "@/components/VideoCard";
 
 const characters = [
   {
-    id: "gojo",
-    name: "GOJO SATORU",
-    first_name: "GOJO",
-    last_name: "SATORU",
-    japanese: "ゴジョサトール",
+    id: "messi1",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
     bgColor: "from-purple-900 via-purple-600 to-pink-500",
-    image: "/lovable-uploads/gojo.png",
+    image: "/lovable-uploads/lm10_argentina.jpeg",
     videos: [
       {
-        title: "Jujutsu Kaisen Best of Gojo",
-        thumbnail:
-          "https://i.pinimg.com/736x/24/fe/4e/24fe4ebc5306b811fb7ea09dc970cb41.jpg",
+        title: "Lionel Messi Argentina Journey",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina celebrates after scoring the team's first goal during the FIFA World Cup 2026 Qualifier match between Argentina and Ecuador....jpg",
       },
       {
-        title: "Just Gojo Moments",
-        thumbnail:
-          "https://i.pinimg.com/736x/87/30/1f/87301fb95e89b58ca9a055e00df928e6.jpg",
+        title: "Messi's Greatest Goals",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Barcelona celebrates scoring his sides first goal during the UEFA Champions League Group D match between FC Barcelona and Juventus at....jpg",
       },
       {
-        title: "Satoru Gojo being Iconic",
-        thumbnail:
-          "https://i.pinimg.com/736x/b9/66/8b/b9668b8233a769967e4ba7cdf0e0d3bf.jpg",
+        title: "Messi's Iconic Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Barcelona celebrates after scoring his sides second goal during the La Liga match between Barcelona and Real Madrid at Camp Nou on....jpg",
       },
       {
-        title: "Every Gojou Satoru being Gojou...",
-        thumbnail:
-          "https://i.pinimg.com/736x/99/85/d8/9985d89064ebc6c2c12fc20385430629.jpg",
+        title: "Messi's Barcelona Era",
+        thumbnail: "/lovable-uploads/messi batch/Barcelona's Argentine forward Lionel Messi celebrates after scoring a goal during the Spanish League football match between FC Barcelona and RC Celta....jpg",
       },
     ],
   },
   {
-    id: "sukuna",
-    name: "RYOMEN SUKUNA",
-    first_name: "RYOMEN",
-    last_name: "SUKUNA",
-    japanese: "ライオメンスクナ",
+    id: "messi2",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
     bgColor: "from-red-900 via-red-600 to-orange-500",
-    image: "/lovable-uploads/sukuna.png",
+    image: "/lovable-uploads/lm10_barcelona.jpeg",
     videos: [
       {
-        title: "Ryomen Sukuna Raw Scenes",
-        thumbnail:
-          "https://i.pinimg.com/736x/65/da/fb/65dafb49fed4ff91da4f32dfa8a6db7c.jpg",
+        title: "Messi's Barcelona Legacy",
+        thumbnail: "/lovable-uploads/messi batch/Barcelona's Argentinian Messi and Brazilian Ronaldinho celebrate their second goal against Albacete during their Spanish League football match at the....jpg",
       },
       {
-        title: '"Know Your Place, Fool." - Sukuna',
-        thumbnail:
-          "https://i.pinimg.com/736x/29/33/c6/2933c673baa478dac18763689185b346.jpg",
+        title: "Messi's Champions League Magic",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Barcelona and Cristiano Ronaldo of Juventus F.C. Look on during the UEFA Champions League Group G stage match between FC Barcelona....jpg",
       },
       {
-        title: "everytime sukuna appears",
-        thumbnail:
-          "https://i.pinimg.com/736x/e4/78/84/e478840b7082c18b46d70350915da9f8.jpg",
+        title: "Messi's Free Kick Mastery",
+        thumbnail: "/lovable-uploads/messi batch/Cristiano Ronaldo of Juventus, Lionel Messi of FC Barcelona and Virgil Van Dijk of Liverpool react during the UEFA Champions League Draw, part of the....jpg",
       },
       {
-        title: "Sukuna all battles till now",
-        thumbnail:
-          "https://i.pinimg.com/736x/2e/70/9c/2e709c091ec598bdfa32f778b37a1147.jpg",
+        title: "Messi's Dribbling Skills",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of FC Barcelona shows his dejection during the La Liga Santander match between FC Barcelona and RC Celta at Camp Nou on May 16, 2021 in....jpg",
       },
     ],
   },
   {
-    id: "megumi",
-    name: "MEGUMI FUSHIGURO",
-    first_name: "MEGUMI",
-    last_name: "FUSHIGURO",
-    japanese: "メガミフシグロ",
+    id: "messi3",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
     bgColor: "from-blue-900 via-blue-600 to-indigo-500",
-    image: "/lovable-uploads/fusiguo.png",
+    image: "/lovable-uploads/lm10_balon_dor.jpeg",
     videos: [
       {
-        title: "Megumi Domain Expansion",
-        thumbnail:
-          "https://i.pinimg.com/736x/fb/b6/b2/fbb6b2a42edec9dd4fc33269d3e3c28e.jpg",
+        title: "Messi's Ballon d'Or Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi attends the 67th Ballon D'Or Ceremony at Theatre Du Chatelet on October 30, 2023 in Paris, France..jpg",
       },
       {
-        title: "Megumi Fushiguro moments",
-        thumbnail:
-          "https://i.pinimg.com/736x/7a/6a/a3/7a6aa301dc841da134705beae156ccca.jpg",
+        title: "Messi's Trophy Collection",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi attends the 67th Ballon D'Or Ceremony at Theatre Du Chatelet on October 30, 2023 in Paris, France. (1).jpg",
       },
       {
-        title: "gojo and megumi's relationship",
-        thumbnail:
-          "https://i.pinimg.com/736x/f7/21/bc/f721bc534c3d10e8bd3e5f39678aa1b0.jpg",
+        title: "Messi's Individual Awards",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi attends the 67th Ballon D'Or Ceremony at Theatre Du Chatelet on October 30, 2023 in Paris, France. (2).jpg",
       },
       {
-        title: "Megumi Fushiguro Twixtor Clips",
-        thumbnail:
-          "https://i.pinimg.com/736x/e7/28/e7/e728e7f00f233a231b5eed284819e07a.jpg",
+        title: "Messi's Golden Boot",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi attends the 67th Ballon D'Or Ceremony at Theatre Du Chatelet on October 30, 2023 in Paris, France. (3).jpg",
       },
     ],
   },
   {
-    id: "nobara",
-    name: "NOBARA KUGISAKI",
-    first_name: "NOBARA",
-    last_name: "KUGISAKI",
-    japanese: "ノバラクーギサキ",
+    id: "messi4",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
     bgColor: "from-red-800 via-pink-600 to-rose-500",
-    image: "/lovable-uploads/novara.png",
+    image: "/lovable-uploads/lm10_fire.jpeg",
     videos: [
       {
-        title: "Nobara Kugisaki Moments",
-        thumbnail:
-          "https://i.pinimg.com/736x/ca/1f/0f/ca1f0ffd572bd0159262943a36ff2167.jpg",
+        title: "Messi's Fire Celebration",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after scoring a goal during the Leagues Cup 2023 Round of 32 match between Orlando City SC and Inter Miami....jpg",
       },
       {
-        title: "Best of Nobara Kugisaki",
-        thumbnail:
-          "https://i.pinimg.com/736x/15/df/37/15df377da43e81a58317df5b6b38701f.jpg",
+        title: "Messi's Passionate Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after scoring a goal in the second half during the Leagues Cup 2023 Round of 32 match between Orlando City....jpg",
       },
       {
-        title: "Kugisaki Nobara Fight Scenes",
-        thumbnail:
-          "https://i.pinimg.com/736x/8d/ba/e4/8dbae4775b932bff6ca67111e316f397.jpg",
+        title: "Messi's Team Celebrations",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after scoring his second goal during the second half against the Orlando City SC at Chase Stadium on March....jpg",
       },
       {
-        title: "12 Minutes of Kugisaki Being Ku...",
-        thumbnail:
-          "https://i.pinimg.com/736x/92/20/c9/9220c917f353e75a1fa836b17d4342a7.jpg",
+        title: "Messi's Victory Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after kicking the game winning goal during the second half of the Leagues Cup 2023 match between Cruz Azul....jpg",
+      },
+    ],
+  },
+  {
+    id: "messi5",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
+    bgColor: "from-gray-900 via-slate-600 to-zinc-500",
+    image: "/lovable-uploads/lm10_vintage.jpeg",
+    videos: [
+      {
+        title: "Young Messi's Journey",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after kicking the game winning goal during the second half of the Leagues Cup 2023 match between Cruz Azul... (1).jpg",
+      },
+      {
+        title: "Messi's Evolution",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates scoring their second goal during the FIFA Club World Cup 2025 group A match between Internacional CF Miami....jpg",
+      },
+      {
+        title: "Messi's Classic Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF celebrates after scoring a goal in the first half during the Leagues Cup 2023 semifinals match between Inter Miami CF....jpg",
+      },
+      {
+        title: "Messi's Historic Goals",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami CF and co-owner David Beckham look on as fans take photos during the second half of the Leagues Cup 2023 match between....jpg",
+      },
+    ],
+  },
+  {
+    id: "messi6",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
+    bgColor: "from-emerald-900 via-green-600 to-teal-500",
+    image: "/lovable-uploads/lm10_world_cup.jpeg",
+    videos: [
+      {
+        title: "Messi's World Cup Glory",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina lifts the FIFA World Cup Qatar 2022 Winner's Trophy during the FIFA World Cup Qatar 2022 Final match between Argentina and....jpg",
+      },
+      {
+        title: "Messi's World Cup Final",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina kisses the FIFA World Cup Qatar 2022 Winner's Trophy during the FIFA World Cup Qatar 2022 Final match between Argentina and....jpg",
+      },
+      {
+        title: "Messi's Argentina Triumph",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina reacts after winning the CONMEBOL Copa America 2024 Final match between Argentina and Colombia at Hard Rock Stadium on July....jpg",
+      },
+      {
+        title: "Messi's World Cup Journey",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina looks on during the CONMEBOL Copa America 2024 quarter-final match between Argentina and Ecuador at NRG Stadium on July 04,....jpg",
+      },
+    ],
+  },
+  {
+    id: "messi7",
+    name: "LIONEL MESSI",
+    first_name: "LIONEL",
+    last_name: "MESSI",
+    bgColor: "from-orange-900 via-pink-600 to-purple-500",
+    image: "/lovable-uploads/lm10_young_with_old.jpeg",
+    videos: [
+      {
+        title: "Messi's Career Timeline",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina looks on in the second half against Ecuador during an International Friendly match at Soldier Field on June 09, 2024 in....jpg",
+      },
+      {
+        title: "Messi's Growth Story",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina and teammate Rodrigo de Paul talk to Rodrygo of Brazil after the match was delayed due to incidents in the stands during a....jpg",
+      },
+      {
+        title: "Messi's Legacy Moments",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Argentina smiles during the CONMEBOL Copa America 2024 semifinal match between Canada and Argentina at MetLife Stadium on July 09,....jpg",
+      },
+      {
+        title: "Messi's Iconic Career",
+        thumbnail: "/lovable-uploads/messi batch/Lionel Messi of Inter Miami celebrates after defeating the Nashville SC to win the Leagues Cup 2023 final match between Inter Miami CF and Nashville....jpg",
       },
     ],
   },
@@ -219,9 +277,9 @@ const Index = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
-                <h3 className="text-white/80 text-lg mb-2 font-light tracking-wider">
+                {/* <h3 className="text-white/80 text-lg mb-2 font-light tracking-wider">
                   {character.japanese}
-                </h3>
+                </h3> */}
                 <motion.h1
                   className="text-6xl md:text-8xl font-bold text-white mb-8 leading-none homemade-apple-regular"
                   style={{

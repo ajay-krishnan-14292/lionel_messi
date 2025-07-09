@@ -25,8 +25,8 @@ const Navbar = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-white"
         >
-          <h1 className="text-2xl font-bold tracking-wider">呪術廻戦</h1>
-          <p className="text-sm text-white/80 font-light">Jujutsu Kaisen</p>
+          <h1 className="text-2xl font-bold tracking-wider">リオネル・メッシ</h1>
+          <p className="text-sm text-white/80 font-light">Lionel Messi</p>
         </motion.div>
 
         <motion.div

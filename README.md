@@ -1,4 +1,4 @@
-# Welcome to your Jujutsu Kaisen project
+# Welcome to your Lionel Messi project
 
 ## Project Demo
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Jujutsu Kaisen.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lionel Messi.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -53,5 +53,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-# Jujutsu-Kaisen
